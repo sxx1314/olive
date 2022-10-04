@@ -27,7 +27,7 @@ If you have new features or find bugs, please go to the [issues](https://github.
 
 - build from source
 
-  `go install github.com/go-olive/olive/src/cmd/olive@latest`
+  `go install github.com/go-olive/olive/src/cmd/olive@v0.3.3`
 
 - download from [**releases**](https://github.com/go-olive/olive/releases)
 

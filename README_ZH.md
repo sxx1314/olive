@@ -27,7 +27,7 @@
 
 - 源码安装
 
-  `go install github.com/go-olive/olive/src/cmd/olive@latest`
+  `go install github.com/go-olive/olive/src/cmd/olive@v0.3.3`
 
 - [二进制安装](https://github.com/go-olive/olive/releases)
 
